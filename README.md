@@ -31,7 +31,7 @@ Sou um **Engenheiro de Computação** e desenvolvedor apaixonado por tecnologia,
 **Descrição:** Sistema para rastrear e controlar ferramentas com RFID e sensores, integrando entrada e saída automatizada.  
 **Tecnologias:** Arduino, RFID, C++.  
 
-### 🔹 [Dispositivo de Monitoramento Ambiental](https://github.com/brunohss/monitoramento-ambiental-iot)  
+### 🔹 [Dispositivo de Monitoramento Ambiental](https://github.com/brunohss/Dispositivo_de_Monitoramento_Ambiental.git)  
 **Descrição:** Solução IoT para monitorar qualidade do ar, nível de oxigênio e gases em ambientes confinados.  
 **Tecnologias:** ESP32, sensores de gás, MQTT.  
 
