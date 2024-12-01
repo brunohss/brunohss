@@ -23,7 +23,7 @@ Sou um **Engenheiro de Computação** e desenvolvedor apaixonado por tecnologia,
 
 ## 🚀 Projetos em Destaque  
 
-### 🔹 [Sistema de Monitoramento CNC](https://github.com/brunohss/sistema-monitoramento-cnc)  
+### 🔹 [Sistema de Monitoramento CNC](https://github.com/brunohss/Sistema_de_Monitoramento_CNC.git)  
 **Descrição:** Sistema que controla máquinas CNC usando ESP8266 e sensores precisos, com interface web para monitoramento em tempo real.  
 **Tecnologias:** ESP8266, MQTT, Modbus, HTML/CSS.  
 
