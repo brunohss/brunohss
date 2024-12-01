@@ -27,7 +27,7 @@ Sou um **Engenheiro de Computação** e desenvolvedor apaixonado por tecnologia,
 **Descrição:** Sistema que controla máquinas CNC usando ESP8266 e sensores precisos, com interface web para monitoramento em tempo real.  
 **Tecnologias:** ESP8266, MQTT, Modbus, HTML/CSS.  
 
-### 🔹 [Controle de Ferramentas Automatizado](https://github.com/brunohss/controle-ferramentas)  
+### 🔹 [Controle de Ferramentas Automatizado](https://github.com/brunohss/Controle_de_Ferramentas_Automatizado.git)  
 **Descrição:** Sistema para rastrear e controlar ferramentas com RFID e sensores, integrando entrada e saída automatizada.  
 **Tecnologias:** Arduino, RFID, C++.  
 
