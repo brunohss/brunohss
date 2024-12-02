@@ -14,7 +14,7 @@
 Sou um **Engenheiro de Computação** e desenvolvedor apaixonado por tecnologia, com mais de 17 anos de experiência em **IoT**, **Automação Industrial**, e **design de PCBs**. Minha missão é criar soluções inteligentes que conectem dispositivos, otimizem processos e promovam a inovação na Indústria 4.0.  
 
 📌 **Áreas de Especialização:**  
-- Desenvolvimento de sistemas embarcados com **ESP8266**, **ESP32** e **Arduino**.  
+- Desenvolvimento de sistemas embarcados com **RASPBERRY PI**, **ESP32**, **ESP8266** e **Arduino**.  
 - Comunicação IoT: **MQTT**, **Modbus**, e integração com nuvem (**AWS**, **Google Cloud**).  
 - Design de PCBs usando **Eagle** e **Fusion 360**.  
 - Controle de CNCs e automação de processos industriais.  
