@@ -80,7 +80,7 @@ Sou um **Engenheiro de Computação** e desenvolvedor apaixonado por tecnologia,
 ## 📫 Contato  
 
 - **E-mail:** [brunohss01@gmail.com](mailto:brunohss01@gmail.com)  
-- **LinkedIn:** [Bruno-IoT](www.linkedin.com/in/Bruno-IoT)  
+- **LinkedIn:** [Bruno-IoT](https://www.linkedin.com/in/Bruno-IoT)  
 - **Portfólio:** [Acesse meus projetos](https://github.com/brunohss?tab=repositories)  
 
 ---
