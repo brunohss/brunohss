@@ -3,7 +3,7 @@
 🔧 **Engenheiro de Computação e Desenvolvedor IoT | Automação Industrial**  
 🚀 **Especialista em sistemas embarcados, design de PCBs e soluções para Indústria 4.0**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bruno-iot/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projetos-black?style=flat&logo=github)](https://github.com/brunohss)  
 [![E-mail](https://img.shields.io/badge/Email-brunohss01%40gmail.com-red?style=flat&logo=gmail)](mailto:brunohss01@gmail.com)  
 
