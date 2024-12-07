@@ -23,6 +23,10 @@ Sou um **Engenheiro de Computação** e desenvolvedor apaixonado por tecnologia,
 
 ## 🚀 Projetos em Destaque  
 
+### 🔹 [Plataforma de Manutenção Preditiva para Equipamentos](https://github.com/brunohss/-Plataforma_Manutencao_Preditiva.git)  
+**Descrição:** Solução IoT para monitoramento de máquinas industriais. Sensores capturam dados de vibração e temperatura enviados a um servidor MQTT, onde algoritmos de machine learning analisam e detectam anomalias, gerando alertas preditivos e reduzindo custos operacionais.
+**Tecnologias:** ESP32, ADXL345, DS18B20, MQTT, Python, scikit-learn, pandas, numpy, matplotlib.
+
 ### 🔹 [Sistema de Monitoramento CNC](https://github.com/brunohss/Sistema_de_Monitoramento_CNC.git)  
 **Descrição:** Sistema que controla máquinas CNC usando ESP8266 e sensores precisos, com interface web para monitoramento em tempo real.  
 **Tecnologias:** ESP8266, MQTT, Modbus, HTML/CSS.  
